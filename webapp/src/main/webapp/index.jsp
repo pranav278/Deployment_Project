@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Hello Connections,</h1>
-    <p>I am PRA-NAV !!</p>
+    <p>I am PRANAV !!</p>
     <p>To Connect with me:</p>
     <ul>
         <li>LinkedIn - <a href="https://www.linkedin.com/in/connect-pranav-nalawade">https://www.linkedin.com/in/connect-pranav-nalawade</a></li>
